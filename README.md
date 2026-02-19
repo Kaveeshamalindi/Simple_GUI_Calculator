@@ -1,6 +1,6 @@
 # 🔢 Simple GUI Calculator
 
-<p align="justify"> Created a simple calculator using Java Swing and NetBeans software. This is a part of my Java practice journey to understand the fundamentals of Java programming.  This supports me to understand variables, control structures, methods, and basic GUI design. </p>
+<p align="justify"> Created a simple calculator using Java Swing and NetBeans software. This is a part of my Java practice journey to understand the fundamentals of Java programming.  This supports me in understanding variables, control structures, methods, and basic GUI design. </p>
 
 ---
 
@@ -17,23 +17,27 @@
 - Decimal input support (.).
 - On/Off functionality with radio buttons.
 
+---
+
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="Images/img1.png" width="500"><br>
-  <b>Figure 1:</b> Login Screen
+  <img src="Images/Screenshot (282).png" width="300"><br>
+  Calculator Interface
 </p>
+
+---
 
 ## 🎮 How to Run
 
 1. Clone the repository:
 
 ```
-
+git clone https://github.com/Kaveeshamalindi/Simple_GUI_Calculator.git
 ```
 
-3. Open the project in **NetBeans** (or any Java IDE that supports Swing).
-4. Compile & run the program.
+2. Open the project in **NetBeans** (or any Java IDE that supports Swing).
+3. Compile & run the program.
 
 ---
 
