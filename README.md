@@ -13,9 +13,9 @@
 - Division (/)
 
 ### Additional
-- Clear (C) and backspace (<_) functionality.
-- Decimal input support (.).
-- On/Off functionality with radio buttons.
+- Clear (C) and backspace ( <_ ) functionality.
+- Decimal input support.
+- ON/OFF functionality with radio buttons.
 
 ---
 
